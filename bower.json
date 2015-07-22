@@ -1,0 +1,16 @@
+{
+  "name": "vinitlee-iojs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vinitlee/vinitlee-iojs",
+  "authors": [
+    "Vincent Lee <vinitlee@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
